@@ -1,0 +1,11 @@
+metadata:
+  type: infrastructure
+  project: devops-interview-labs-public
+  description: "Repository to contain tasks that we want to share with candidates"
+  owner:
+    team: devops
+    slack: '#devops-help'
+    email: devops@worldremit.com
+
+attrs:
+  jira: "https://worldremit.atlassian.net/secure/RapidBoard.jspa?rapidView=526&projectKey=DEVOPS"
